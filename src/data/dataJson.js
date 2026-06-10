@@ -7,7 +7,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 995,
-      "image": "../../public/shoesImages/v1-adias-prophere.png"
+      "image": "../../../public/shoesImages/v1-adias-prophere.png"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 990,
-      "image": "../../public/shoesImages/v2-adidas-prophere-black-white.png"
+      "image": "../../../public/shoesImages/v2-adidas-prophere-black-white.png"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 415,
-      "image": "../../public/shoesImages/v3-adidas-prophere-customize.png"
+      "image": "../../../public/shoesImages/v3-adidas-prophere-customize.png"
     },
     {
       "id": 4,
@@ -37,7 +37,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 542,
-      "image": "../../public/shoesImages/v4-adidas-super-star-red.png"
+      "image": "../../../public/shoesImages/v4-adidas-super-star-red.png"
     },
     {
       "id": 5,
@@ -47,7 +47,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 674,
-      "image": "../../public/shoesImages/v5-adidas-swift-run.png"
+      "image": "../../../public/shoesImages/v5-adidas-swift-run.png"
     },
     {
       "id": 6,
@@ -57,7 +57,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 456,
-      "image": "../../public/shoesImages/v6-adidas-tenisky-super-star.png"
+      "image": "../../../public/shoesImages/v6-adidas-tenisky-super-star.png"
     },
     {
       "id": 7,
@@ -67,7 +67,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 854,
-      "image": "../../public/shoesImages/v7-adidas-ultraboost-4.png"
+      "image": "../../../public/shoesImages/v7-adidas-ultraboost-4.png"
     },
     {
       "id": 8,
@@ -77,7 +77,7 @@ export const products = [
       "description": "The adidas Primeknit upper wraps the foot with a supportive fit that enhances movement.\r\n\r\n",
       "shortDescription": "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
       "quantity": 524,
-      "image": "../../public/shoesImages/v8-adidas-yeezy-350.png"
+      "image": "../../../public/shoesImages/v8-adidas-yeezy-350.png"
     },
     {
       "id": 9,
@@ -87,7 +87,7 @@ export const products = [
       "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
       "shortDescription": "Paul George is the rare high-percentage shooter",
       "quantity": 599,
-      "image": "../../public/shoesImages/v9-nike-adapt-bb.png"
+      "image": "../../../public/shoesImages/v9-nike-adapt-bb.png"
     },
     {
       "id": 10,
@@ -97,7 +97,7 @@ export const products = [
       "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
       "shortDescription": "Paul George is the rare high-percentage shooter",
       "quantity": 984,
-      "image": "../../public/shoesImages/v10-nike-air-max-97.png"
+      "image": "../../../public/shoesImages/v10-nike-air-max-97.png"
     },
     {
       "id": 11,
@@ -107,7 +107,7 @@ export const products = [
       "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
       "shortDescription": "Paul George is the rare high-percentage shooter",
       "quantity": 875,
-      "image": "../../public/shoesImages/v11-nike-air-max-97-blue.png"
+      "image": "../../../public/shoesImages/v11-nike-air-max-97-blue.png"
     },
     {
       "id": 12,
@@ -117,6 +117,6 @@ export const products = [
       "description": "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
       "shortDescription": "Paul George is the rare high-percentage shooter",
       "quantity": 445,
-      "image": "../../public/shoesImages/v12-nike-air-max-270-react.png"
+      "image": "../../../../public/shoesImages/v12-nike-air-max-270-react.png"
     } 
   ]
